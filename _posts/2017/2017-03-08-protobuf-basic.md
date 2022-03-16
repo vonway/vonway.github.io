@@ -1,10 +1,11 @@
 ---
 title: protobuf入门
 categories:
-  - Blog
+  - C++
 tags:
   - protobuf
 description: how to compile and use protobuf
+classes: wide
 ---
 
 

@@ -1,11 +1,12 @@
 ---
 title: CentOS7安装使用codeviz
 categories:
-  - Blog
+  - C++
 tags:
   - centos
   - codeviz
 description: install codeviz in centos7
+classes: wide
 ---
 
 # codeviz安装记录和使用实例

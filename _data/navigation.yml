@@ -5,7 +5,7 @@ main:
     url: /categories/
   - title: "标签"
     url: /tags/
-  - title: "关于"
+  - title: "关于我"
     url: /about/
 
 en:

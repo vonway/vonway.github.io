@@ -1,10 +1,11 @@
 ---
 title: 永久删除git中的大文件或者机密文件
 categories:
-  - Blog
+  - Tech
 tags:
   - Git
 description: removing-sensitive-data-from-a-repository
+classes: wide
 ---
 
 # 永久删除git库中的所有大文件或者机密文件

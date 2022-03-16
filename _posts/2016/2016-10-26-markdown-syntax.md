@@ -1,10 +1,11 @@
 ---
 title: markdown常用语法
 categories:
-  - Blog
+  - Markdown
 tags:
   - markdown
 description: markdown syntax description
+classes: wide
 ---
 
 # markdown语法记录和实例展示
