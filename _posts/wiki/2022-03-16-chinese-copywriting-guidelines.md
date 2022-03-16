@@ -5,6 +5,7 @@ categories:
 tags:
   - 排版
 description: 中文文案排版指北（简体中文版）。
+classes: wide
 ---
 
 GitHub repository: [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)
