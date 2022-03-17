@@ -1,7 +1,7 @@
 ---
 title: 用Joplin作为主力笔记软件
 categories:
-  - 软件
+  - Software
 tags:
   - Joplin
   - Note
