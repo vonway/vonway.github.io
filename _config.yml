@@ -114,3 +114,16 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+# comments by giscus
+repository: "vonway/vonway.github.io"
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id              : R_kgDOGdM_3g # Shown during giscus setup at https://giscus.app
+    category_name        : Announcements # Full text name of the category
+    category_id          : DIC_kwDOGdM_3s4COJHs # Shown during giscus setup at https://giscus.app
+    discussion_term      : pathname # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
+    theme                : "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
