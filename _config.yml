@@ -115,6 +115,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
+bing_site_verification: "6419BF36774E08FEB6323B77C5568971"
 
 # comments by giscus
 repository: "vonway/vonway.github.io"
