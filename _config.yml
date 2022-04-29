@@ -129,8 +129,3 @@ comments:
     reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
     theme                : "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
 
-# gtag
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id : "G-6E4LEX26VJ"
